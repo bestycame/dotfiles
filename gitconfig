@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = bestycame@gmail.com
-	name = Olivier dO
+	email = "bestycame@gmail;com"
+	name = Bestycame
